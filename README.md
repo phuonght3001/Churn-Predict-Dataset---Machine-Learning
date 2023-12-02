@@ -1,4 +1,4 @@
-# Churn Predict Dataset - Machine-Learning
+# Churn Predict Dataset - Machine Learning
 Use Python to analyze and find out the best model that predicts churn customes effectively.
 ## 1. Introduction
 One ecommerce company has a project on predicting churned users in order to offer potential promotions.
